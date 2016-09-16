@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsProject</string>
+    <string name="txtIniciarJogo">Clique no botão abaixo para iniciar o jogo e boa sorte!</string>
+    <string name="btnIniciarJogo">Iniciar jogo</string>
+    <string name="txtWin">Parabéns ♥</string>
+    <string name="txtDefeat">Você perdeu :/ Tente novamente!</string>
+</resources>
